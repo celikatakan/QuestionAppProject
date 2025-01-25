@@ -41,5 +41,6 @@ public/
 ├── t-rex.jpg         # Image file related to the quiz
 ```
 
+- [Netlify](https://questionappproject.netlify.app/) (Hosting)
 
-[Netlify](https://questionappproject.netlify.app/)
+
