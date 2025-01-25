@@ -37,4 +37,4 @@ src/
 public/
 ├── t-rex.jpg         # Image file related to the quiz
 
-[Netlify]([https://www.netlify.com/](https://67951b74b0b4ee836e0d8ad1--sunny-malasada-6c6dae.netlify.app/))
+[Netlify](https://questionappproject.netlify.app/)
